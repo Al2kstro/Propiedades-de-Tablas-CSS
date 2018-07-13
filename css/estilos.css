@@ -50,14 +50,14 @@ border: 1px solid white;
 border-collapse: collapse;
 padding: 20px;
 }
-table tr:hover
+tr:hover
 {
 border: 1px solid white;
 background: blue;
 border: 1px solid white;
 padding: 20px;
 }
-table td:hover
+td:hover
 {
 background: yellow;
 color: red;

@@ -1,0 +1,48 @@
+body
+{
+margin: 10px 30px 10px 20px;
+background: url(../image/haitises.jpg);
+background-size: cover;
+background-attachment: fixed;
+color: black;
+}
+
+h1
+{
+font-family: helvetica;
+font-size: 40px;
+margin-top: 0;
+}
+
+img
+{
+background-color: black;
+
+}
+
+a
+{
+font-family: arial;
+font-size: 17px;
+font-weight: bold;
+color: green;
+}
+
+h3
+{
+font-family:helvetica, arial, sans-serif;
+text-align: center;
+text-decoration: underline;
+text-transform: uppercase;
+color: blue;
+}
+p
+{
+font-family: helvetica, arial, sans-serif;
+font-size: 14px;
+font-weight: bold;
+text-align: justify;
+line-height: 1.5em;
+letter-spacing: 1.5px;
+text-shadow: 1px 1px 1px black;
+}

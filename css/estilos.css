@@ -1,0 +1,66 @@
+body
+{
+margin: 10px 30px 10px 20px;
+background-color: black;
+color: white;
+}
+
+h1
+{
+font-family: helvetica;
+font-size: 40px;
+margin-top: 0;
+}
+
+img
+{
+background-color: black;
+
+}
+
+a
+{
+font-family: arial;
+font-size: 17px;
+font-weight: bold;
+color: green;
+}
+
+h3
+{
+font-family:helvetica, arial, sans-serif;
+text-align: center;
+text-decoration: underline;
+text-transform: uppercase;
+color: blue;
+}
+p
+{
+font-family: helvetica, arial, sans-serif;
+font-size: 14px;
+font-weight: bold;
+text-align: justify;
+line-height: 1.5em;
+letter-spacing: 1.5px;
+text-shadow: 1px 1px 1px black;
+}
+table
+{
+border: 1px solid white;
+border-collapse: collapse;
+padding: 20px;
+}
+table tr:hover
+{
+border: 1px solid white;
+background: blue;
+border: 1px solid white;
+padding: 20px;
+}
+table td:hover
+{
+background: yellow;
+color: red;
+border: 1px solid white;
+padding: 20px;
+}
